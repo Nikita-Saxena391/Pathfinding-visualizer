@@ -55,5 +55,5 @@ You can view the live demo [here](https://nikita-saxena391.github.io/Pathfinder-
 
 ---
 
-## 📂 Project Structure
+
 
