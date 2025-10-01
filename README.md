@@ -23,7 +23,7 @@ This project helps in understanding how different algorithms explore nodes and f
 
 ## 🖥️ Demo
 
-You can view the live demo [here](https://nikita-saxena391.github.io/Pathfinder-Visualizer/) *(update the link to your actual GitHub Pages URL)*
+You can view the live demo [here](https://nikita-saxena391.github.io/Pathfinding-visualizer/) 
 
 ---
 
